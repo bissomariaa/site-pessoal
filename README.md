@@ -1,7 +1,8 @@
 # site-pessoal meu nome é maria vitoria sou aluna do colegio estadual marechal castelo branco
+tenho:18 anos,
 sou leitora de dark romance
-eu estou criando o site para falar sobre livros. 
-vou citar 3 livros que gosto muito 
-1º love in the dark 
-2º desenfreados
- 3º possesive
+eu estou criando o site para falar sobre livros desse genero.
+o dark romance tem como ideal combinar elementos românticos com
+temátias sombrias, um livro cujo foco é romance, em que os limites de uma relação
+amorosa são testados.
+
