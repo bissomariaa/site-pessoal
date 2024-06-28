@@ -1,4 +1,4 @@
-# site-pessoal meu nome é maria vitoria sou aluna do colegio estadual marechal castelo branco
+# site-pessoal meu nome é maria vitoria
 tenho:18 anos,
 sou leitora de dark romance
 eu estou criando o site para falar sobre livros desse genero.
